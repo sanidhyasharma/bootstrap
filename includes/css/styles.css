@@ -8,7 +8,7 @@ Updated: August 2013
 Notes:	 Hand coded for Udemy.com
 
 */
-body
+#bodymain
 {
 /*-webkit-font-smoothing: antialiased;
 text-rendering: optimizeLegibility;
@@ -16,7 +16,13 @@ text-rendering: optimizeLegibility;
 background-attachment: fixed;
 
 }
+#bodypage2
+{
 
+   background: url("../../images/333.jpg" ) ;
+background-attachment: fixed;
+
+}
 /* --------------------------------------
    Layout
    -------------------------------------- */
@@ -73,7 +79,8 @@ background-attachment: fixed;
 
 /* --------------------------------------
    Global Styles
-   -------------------------------------- */
+   ---------------
+   ----------------------- */
 
 .alert
 {
